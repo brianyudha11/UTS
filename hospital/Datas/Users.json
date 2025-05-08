@@ -1,0 +1,10 @@
+[
+	{
+		"id": 1840,
+		"NoTelpon": "0821",
+		"email": "brian@gmail.com",
+		"password": "123",
+		"role": "ADMIN",
+		"active": true
+	}
+]
